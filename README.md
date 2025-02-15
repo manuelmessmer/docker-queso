@@ -1,5 +1,10 @@
 This is a docker for QuESo. Please go to [QuESo](ghcr.io/manuelmessmer/docker-queso) for the actual repository.
 
+### Pull `docker-queso`
+```
+docker pull ghcr.io/manuelmessmer/docker-queso:latest
+```
+
 ### Run `docker-queso`
 To run the first example, copy the content in [example_data](https://github.com/manuelmessmer/docker-queso/tree/main/example_data) into a local_folder on you machine and execute the line below.
 ```
