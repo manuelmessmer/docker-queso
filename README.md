@@ -1,4 +1,4 @@
-This repository provides a docker image of QuESo. Please go to [QuESo](https://github.com/manuelmessmer/QuESo) for the actual repository.
+This repository provides a docker image of QuESo. Please go to [QuESo](https://github.com/manuelmessmer/QuESo) for the actual repository. The original [LICENSE](https://github.com/manuelmessmer/QuESo/blob/main/LICENSE) also applies to the docker image.
 
 ### Pull `docker-queso`
 ```
