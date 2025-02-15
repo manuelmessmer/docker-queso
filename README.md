@@ -6,8 +6,8 @@ docker pull ghcr.io/manuelmessmer/docker-queso:latest
 ```
 
 ### Run `docker-queso`
-To run the first example, copy the content in [example_data](https://github.com/manuelmessmer/docker-queso/tree/main/example_data) into a local_folder on you machine and execute the line below.
+To run the first example, copy the contents of [example_data](https://github.com/manuelmessmer/docker-queso/tree/main/example_data) to a local_folder on you machine and execute the line below.
 ```
 docker run -v /path/to/local_folder/:/app/data/ -it ghcr.io/manuelmessmer/docker-queso
 ```
-For more information on how to use QuESo also check out the [Wiki](https://github.com/manuelmessmer/QuESo/wiki) in the main repository.
+Further information on the use of QuESo can be found in the [Wiki](https://github.com/manuelmessmer/QuESo/wiki) in the main repository.
