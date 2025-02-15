@@ -1,4 +1,4 @@
-This is a docker for QuESo. Please go to [QuESo](ghcr.io/manuelmessmer/docker-queso) for the actual repository.
+This repository provides a docker image for QuESo. Please go to [QuESo](ghcr.io/manuelmessmer/docker-queso) for the actual repository.
 
 ### Pull `docker-queso`
 ```
